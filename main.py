@@ -16,7 +16,7 @@ def start(message):
 
 @Bot.message_handler(content_types=['text'])
 def bot_message(message):
-    if message.text == 'Услуги':
+    if message.text == 'Услуги ':
         serviceBTNLine = types.ReplyKeyboardMarkup(resize_keyboard=True)
         Sbtn1 = types.KeyboardButton('✨ Реконструкция волос')
         serviceBTNLine.row(Sbtn1)
