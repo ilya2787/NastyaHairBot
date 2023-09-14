@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="e2073a9c-7d6a-4086-8a22-ba35598cd163" customName="telegram" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="telegram" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

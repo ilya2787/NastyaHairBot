@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="832a1d00-7a37-4c2f-a418-11c82c455fad" name="telegram" url="domains/14525fd3aa2f.hosting.myjino.ru">
+        <fileTransfer accessType="SFTP" sshConfigId="e2073a9c-7d6a-4086-8a22-ba35598cd163" sshConfig="telegram">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
